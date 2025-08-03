@@ -1,0 +1,7 @@
+host=dpg-d163m0bipnbc73coaer0-a
+db_name=gymmate_db
+dp_user=gymmate_db_user
+db_pass=VzYpBvgCb2sVgcun6alWQn9XsCQKRm0V
+dp_internalurl=postgresql://gymmate_db_user:VzYpBvgCb2sVgcun6alWQn9XsCQKRm0V@dpg-d163m0bipnbc73coaer0-a/gymmate_db
+dp_externalurl=postgresql://gymmate_db_user:VzYpBvgCb2sVgcun6alWQn9XsCQKRm0V@dpg-d163m0bipnbc73coaer0-a.oregon-postgres.render.com/gymmate_db
+psql command=PGPASSWORD=VzYpBvgCb2sVgcun6alWQn9XsCQKRm0V psql -h dpg-d163m0bipnbc73coaer0-a.oregon-postgres.render.com -U gymmate_db_user gymmate_db
