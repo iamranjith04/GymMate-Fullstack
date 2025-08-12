@@ -1,1 +1,1 @@
-https://ranjith-portfolio-page.netlify.app/
+https://gymmate-ranjith.netlify.app/
